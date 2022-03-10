@@ -1,11 +1,14 @@
-### Hi there 👋
+### Olá, eu sou o Getulio Camelo!
 
+Estabeleci que iria mudar minha vida e estou determinado para aprender e ser um dos melhores. 
+Procuro um parceiro em Portugal ou no Brasil, para esse novo desafio onde possamos crescer juntos e manter a motivação.
+Gosto de trabalhar em equipe.
+Estou determinado e aberto para qualquer oportunidade inicial.
 
-## Oiii eu sou o Getulio Camelo!
 <div align="center">
   <a href="https://github.com/getuliogfc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=getuliogfc&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getuliogfc&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=getuliogfc&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getuliogfc&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="GFC-css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
